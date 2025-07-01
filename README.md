@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👩‍💻 Software Engineer<br/>
+🎓 Recent Graduate in Computer Engineering  
+
+### 📜 Certifications
+
+- 🏅 **Front-End Web Development** – [ALX](https://drive.google.com/file/d/1lKe5xCZmyw2DmN_pWfUMTUAFzMmYcxU1/view)  
+- ☁️ **Generative AI with AWS** – [Udacity](https://drive.google.com/file/d/1g_YA6ok1DDRsogq7FnlMe3yRvLjEi2la/view)
+
+---
+
